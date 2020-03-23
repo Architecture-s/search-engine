@@ -8,10 +8,11 @@
   <artifactId>es-search-demo</artifactId>
   <version>1.0-SNAPSHOT</version>
 
-  <packaging>jar</packaging>
-
-  <name>xd-search</name>
-  <description>xd class search</description>
+<!--  <parent>-->
+<!--    <artifactId>search-engine</artifactId>-->
+<!--    <groupId>org.example</groupId>-->
+<!--    <version>1.0-SNAPSHOT</version>-->
+<!--  </parent>-->
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
